@@ -1,5 +1,4 @@
-# blockchain-certificate-verifier
-An immutable Flask and Blockchain web application utilizing SHA-256 document hashing and dynamic QR codes to issue and securely verify authentic certificates.
+
 # 🎓 Blockchain-Based Certificate Verification System
 
 A secure, web-based certificate issuance and verification application built with **Flask** and an immutable **Blockchain** ledger. This system addresses the issue of credential forgery by extracting a unique cryptographic fingerprint (SHA-256 hash) from certificate documents, anchoring them to a data chain, and generating dynamic QR codes for instant, real-time authentication.
